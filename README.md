@@ -1,1 +1,2 @@
 required:
+- [x] SDL2
