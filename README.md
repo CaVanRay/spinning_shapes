@@ -1,3 +1,6 @@
+command for compiling: 
+
+
 required:
 - [x] SDL2
 - [x] GLM (OpenGL Mathematics)
