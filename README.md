@@ -1,4 +1,4 @@
 required:
 - [x] SDL2
-- [x] GLM ()
+- [x] GLM (OpenGL Mathematics)
 - [x] Mesa drivers for OpenGL
